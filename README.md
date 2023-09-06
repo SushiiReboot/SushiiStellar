@@ -8,16 +8,3 @@ I'm a self-taught Game/FrontEnd developer from Italy 🇮🇹
 
 | <a href="https://github.com/sushiistellar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sushiistellar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sushii's github stats" /></a> | <a href="https://github.com/sushiistellar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushiistellar&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-#### Top Repositories
-
-
-<a href="https://github.com/sushiistellar/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushiistellar&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/sushiistellar/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushiistellar&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
